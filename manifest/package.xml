@@ -32,5 +32,13 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
-    <version>55.0</version>
+    <types>
+        <members>Account_Onboarding_Checklist_Task__c</members>
+        <name>CustomObject</name>
+    </types>
+    <type>
+        <members>*</members>
+        <name>FlexiPage</name>
+    </type>
+    <version>54.0</version>
 </Package>
